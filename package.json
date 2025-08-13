@@ -1,0 +1,27 @@
+{
+  "name": "@omnedia/ngx-galaxy",
+  "description": "A simple component library to create mesmerizing galaxy particle background effect.",
+  "version": "3.0.0",
+  "peerDependencies": {
+    "@angular/common": "^20.0.0",
+    "@angular/core": "^20.0.0",
+    "ogl": "^1.0.11"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "npm",
+    "background",
+    "animation",
+    "galaxy",
+    "particles",
+    "interactive"
+  ],
+  "repository": {
+    "url": "https://github.com/omnedia/ngx-galaxy"
+  },
+  "author": "Markus Block (markus.block@omnedia.com)",
+  "license": "MIT"
+}
