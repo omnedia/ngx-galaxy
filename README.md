@@ -1,6 +1,10 @@
 # ngx-galaxy
 
-This library is part of the **NGXUI** ecosystem.
+<a href="https://ngxui.com" target="_blank" style="display: flex;gap: .5rem;align-items: center;cursor: pointer; padding: 0 0 0 0; height: fit-content;">
+  <img src="https://ngxui.com/assets/img/ngxui-logo.png" style="width: 64px;height: 64px;">
+</a>
+
+This library is part of the NGXUI ecosystem. <br>
 View all available components at [https://ngxui.com](https://ngxui.com)
 
 `@omnedia/ngx-galaxy` is an Angular library that renders an interactive animated galaxy background using WebGL. It supports mouse interaction, repulsion effects, twinkling stars, and multiple customization options. You can layer content above the galaxy using `ng-content`.
